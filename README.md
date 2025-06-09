@@ -1,8 +1,7 @@
 # Skip Size Selector - Redesign
 
 ## 🚀 Live Sandbox Version
-👉 [View on CodeSandbox](https://codesandbox.io/)
-
+Link-> https://codesandbox.io/p/github/Haseen-dev/skipper-redesign/main?import=true
 ## 🎯 Objective
 Redesign the "Choose Your Skip Size" page from [wewantwaste.co.uk](https://wewantwaste.co.uk) with a modern, responsive UI using React and Bootstrap.
 
